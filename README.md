@@ -11,9 +11,16 @@ I enjoy building production-ready AI systems using LLMs, machine learning, Pytho
 - 🇫🇷 Based in France
 
 ---
-
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
+### AI / ML
+![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,huggingface)
 
-![Tech Stack](https://skillicons.dev/icons?i=python,sql,bash,pytorch,sklearn,huggingface,fastapi,redis,postgresql,docker,git,githubactions)
+### Backend
+![My Skills](https://skillicons.dev/icons?i=fastapi,redis)
+
+### Data & Storage
+![My Skills](https://skillicons.dev/icons?i=postgresql,sqlite)
+
+### DevOps
+![My Skills](https://skillicons.dev/icons?i=docker,git,githubactions)
