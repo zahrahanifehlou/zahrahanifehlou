@@ -1,16 +1,84 @@
-## Hi there 👋
+# Hi, there I'm Zara 👋
 
-<!--
-**zahrahanifehlou/zahrahanifehlou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm transitioning into AI Engineering after working as a Data Scientist in biotechnology.
 
-Here are some ideas to get you started:
+I enjoy building production-ready AI systems using LLMs, machine learning, Python, and cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🤖 Learning AI Engineering
+- 🧠 Interested in LLMs and AI Agents
+- 📰 Building an AI News Aggregator
+- 📚 Learning MLOps, Docker, Kubernetes
+- 🇫🇷 Living in France
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+- Python
+- SQL
+- Bash
+
+### AI & ML
+
+- PyTorch
+- Scikit-Learn
+- Hugging Face
+- LangChain
+
+### Backend
+
+- FastAPI
+- Celery
+- Redis
+
+### Databases
+
+- PostgreSQL
+- SQLite
+
+### DevOps
+
+- Docker
+- Git
+- GitHub Actions
+
+---
+
+## 📌 Current Projects
+
+### AI News Aggregator
+
+An end-to-end AI pipeline that
+
+- Collects news from RSS feeds
+- Summarizes articles using LLMs
+- Removes duplicates
+- Categorizes news
+- Ranks articles with AI
+- Stores data in PostgreSQL
+- Generates newsletters
+- Uses Docker & Celery
+
+---
+
+## 🌱 Currently Learning
+
+- AI Agents
+- RAG
+- Kubernetes
+- AWS
+- MLOps
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn:
+- Portfolio:
+- Email:
