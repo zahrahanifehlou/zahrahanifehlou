@@ -1,17 +1,14 @@
 # Hi, there I'm Zara 👋
 
-I'm transitioning into AI Engineering after working as a Data Scientist in biotechnology.
-
 I enjoy building production-ready AI systems using LLMs, machine learning, Python, and cloud technologies.
 
 ---
 
 ## 🚀 About Me
 
-- 🤖 Learning AI Engineering
-- 🧠 Interested in LLMs and AI Agents
-- 📰 Building an AI News Aggregator
-- 📚 Learning MLOps, Docker, Kubernetes
+- 🤖 AI Engineer
+- 🧠 Data scientist
+
 - 🇫🇷 Living in France
 
 ---
@@ -67,18 +64,7 @@ An end-to-end AI pipeline that
 
 ---
 
-## 🌱 Currently Learning
-
-- AI Agents
-- RAG
-- Kubernetes
-- AWS
-- MLOps
-
----
-
 ## 📫 Connect with Me
 
-- LinkedIn:
-- Portfolio:
+- LinkedIn: https://www.linkedin.com/in/zahra-hanifehlou-51946580/
 - Email:
