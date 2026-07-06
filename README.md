@@ -1,70 +1,42 @@
-# Hi, there I'm Zara 👋
+# Hi, I'm Zara 👋
 
 I enjoy building production-ready AI systems using LLMs, machine learning, Python, and cloud technologies.
 
 ---
 
 ## 🚀 About Me
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-- 🤖 AI Engineer
-- 🧠 Data scientist
 
-- 🇫🇷 Living in France
+- 🤖 AI Engineer transitioning from Data Science
+- 🧠 Focused on LLMs, AI Agents, and MLOps
+- 🇫🇷 Based in France
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
+![My Skills](https://skillicons.dev/icons?i=python,sql,bash)
 
-- Python
-- SQL
-- Bash
-
-### AI & ML
-
-- PyTorch
-- Scikit-Learn
-- Hugging Face
-- LangChain
+### AI / ML
+![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,huggingface)
 
 ### Backend
-
-- FastAPI
-- Celery
-- Redis
-
-### Databases
-
-- PostgreSQL
-- SQLite
+![My Skills](https://skillicons.dev/icons?i=fastapi,redis)
 
 ### DevOps
+![My Skills](https://skillicons.dev/icons?i=docker,git,githubactions)
 
+### Databases
+![My Skills](https://skillicons.dev/icons?i=postgresql,sqlite)
+
+### DevOps
 - Docker
 - Git
 - GitHub Actions
 
 ---
 
-## 📌 Current Projects
-
-### AI News Aggregator
-
-An end-to-end AI pipeline that
-
-- Collects news from RSS feeds
-- Summarizes articles using LLMs
-- Removes duplicates
-- Categorizes news
-- Ranks articles with AI
-- Stores data in PostgreSQL
-- Generates newsletters
-- Uses Docker & Celery
-
----
-
 ## 📫 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/zahra-hanifehlou-51946580/
-- Email:
+- Email: your-email@example.com
